@@ -1,0 +1,52 @@
+{
+    "name": "Le Petit Gourmet",
+    "short_name": "Le Petit Gourmet",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/#/",
+    "start_url": "/#/",
+    "icons": [
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-72x72.png?alt=media&token=0f5d3add-4529-4f42-a5e7-cab981e4173b",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-96x96.png?alt=media&token=b4fab588-ff90-4416-976d-4db4f523a907",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-128x128.png?alt=media&token=e603208a-32c4-40bd-af3e-4e8949aa7908",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-144x144.png?alt=media&token=7620fdb0-8944-498e-a445-443d25ae9179",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-152x152.png?alt=media&token=c5e7bf23-4fe4-4656-ab47-399ad860ba94",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-192x192.png?alt=media&token=1d1d0173-a2a1-465f-ad1f-8bb9054bd88b",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-384x384.png?alt=media&token=c35bda24-6301-45f0-8b00-7e4b5b80e1ac",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/lojavirtual-c82f5.appspot.com/o/lepetitgourmetfolder%2Ficon-512x512.png?alt=media&token=8254b590-1322-4196-9dba-36ca8c3a061d",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
